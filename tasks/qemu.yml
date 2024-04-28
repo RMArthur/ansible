@@ -1,3 +1,0 @@
-  - name: Install QEMU guest agent
-    apt:
-      name: qemu-guest-agent

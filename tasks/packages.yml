@@ -1,8 +1,0 @@
-  - name: Install Packages
-    apt:
-      name:
-        - htop
-        - tmux
-        - curl
-        - wget
-
